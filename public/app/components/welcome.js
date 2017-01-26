@@ -44,6 +44,9 @@ div style = {
 		<Image src="/images/react.png" style={{
 		  height: 80,
 		  margin:10}}/>
+        <Image src="/images/passportjs.png" style={{
+		  height: 80,
+		  margin:10}}/>
 		<Image src="/images/node.png" style={{
 		  height: 80,
 		  margin:10}}/> </div><footer class="content-footer" style={{
